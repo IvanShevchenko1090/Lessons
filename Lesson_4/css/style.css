@@ -1,0 +1,107 @@
+@font-face {
+    font-family: Larsseit;
+    src: url("../fonts/Larsseit.woff2") format("woff2 "), url("../fonts/Larsseit.woff") format("woff");
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Larsseit;
+    src: url("../fonts/Larsseit-Medium.woff2") format("woff2 "), url("../fonts/Larsseit-Medium.woff") format("woff");
+    font-display: swap;
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Larsseit;
+    src: url("../fonts/Larsseit-Bold.woff2") format("woff2 "), url("../fonts/Larsseit-Bold.woff") format("woff");
+    font-display: swap;
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Larsseit;
+    src: url("../fonts/Larsseit-ExtraBold.woff2") format("woff2 "), url("../fonts/Larsseit-ExtraBold.woff") format("woff");
+    font-display: swap;
+    font-weight: 900;
+    font-style: normal;
+}
+
+
+body {
+    font-family: Larsseit;
+}
+
+li {
+    margin: 10px;
+}
+
+h1 {
+    font-family: Lato;
+    font-size: 50px;
+    font-weight: 900;
+    margin: 50px;
+}
+
+h6 {
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 300;
+    margin: 0 60px 50px 100px;
+}
+
+.burger {
+    font-family: Roboto;
+    font-weight: 900;
+    margin: 30px;
+    padding: 15px;
+}
+
+p {
+    font-family: Roboto;
+    font-weight: 600;
+    margin: 20px;
+}
+
+img {
+    margin: 20px;
+}
+
+.stories__fake {
+    font-family: Larsseit-Bold;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.stories__fish {
+    font-family: Larsseit-ExtraBold;
+    font-size: 50px;
+    font-weight: 900;
+}
+
+.stories__games {
+    font-family: Larsseit-Medium;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.stories__lorem {
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.stories__hundred {
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.footer {
+    font-family: Lato-Bold;
+    font-size: 40px;
+    font-weight: 700;
+}
